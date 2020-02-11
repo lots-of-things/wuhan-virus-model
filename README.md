@@ -4,5 +4,5 @@ This model analyzes how the rate of travel between two cities could affect wheth
 
 I wrote the model to help understand how to develop [this interactive simulation](http://bl.ocks.org/stedn/b0acdeba81751c5f8e4ccaa74ccb09a9) of the spread from Wuhan to SF.  
 
-![wuhan model viz](wuhan_model_viz.gif)
+[![wuhan model viz](wuhan_model_viz.gif "Test the model with viz")](http://bl.ocks.org/stedn/b0acdeba81751c5f8e4ccaa74ccb09a9)
 
