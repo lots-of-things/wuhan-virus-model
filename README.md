@@ -6,3 +6,4 @@ I wrote the model to help understand how to develop [this interactive simulation
 
 [![wuhan model viz](wuhan_model_viz.gif "Test the model with viz")](http://bl.ocks.org/stedn/b0acdeba81751c5f8e4ccaa74ccb09a9)
 
+NOTE: I wrote most of this before the WHO had decided on the name COVID-19 so I sometimes refer to the virus as "Wuhan virus."  The virus should be referred to as SARS-CoV-2 or COVID-19.  I will update someday if I have time.
